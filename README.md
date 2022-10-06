@@ -1,4 +1,6 @@
-<h1> <b>Hello!</b><img src="./assets/4Snj.gif" alt="hello"></b>, my name is Fiononana</h1>
+<h1>Hello!</h1>
+<div>
+    <img src="./assets/4Snj.gif" alt="hello"></div>
 <div>
     <table>
         <tr>
